@@ -1,0 +1,12 @@
+/Users/kira/Projects/SumCount/NumberSum/bin/Debug/netcoreapp3.1/NumberSum.deps.json
+/Users/kira/Projects/SumCount/NumberSum/bin/Debug/netcoreapp3.1/NumberSum.runtimeconfig.json
+/Users/kira/Projects/SumCount/NumberSum/bin/Debug/netcoreapp3.1/NumberSum.runtimeconfig.dev.json
+/Users/kira/Projects/SumCount/NumberSum/bin/Debug/netcoreapp3.1/NumberSum.dll
+/Users/kira/Projects/SumCount/NumberSum/bin/Debug/netcoreapp3.1/NumberSum.pdb
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.csprojAssemblyReference.cache
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.AssemblyInfoInputs.cache
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.AssemblyInfo.cs
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.csproj.CoreCompileInputs.cache
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.dll
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.pdb
+/Users/kira/Projects/SumCount/NumberSum/obj/Debug/netcoreapp3.1/NumberSum.genruntimeconfig.cache

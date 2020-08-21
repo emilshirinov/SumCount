@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{95D6047A-8D48-46EF-8A1B-41CE382D4765}|Default">
+  <MonoDevelop.Ide.ItemProperties.SumCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SimpleNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reverse/Program.cs">
+    <Files>
+      <File FileName="SumCount/Program.cs" Line="24" Column="49" />
+      <File FileName="factorial/Program.cs" Line="22" Column="1" />
+      <File FileName="SimpleNumber/Program.cs" Line="21" Column="42" />
+      <File FileName="NumberSum/Program.cs" Line="20" Column="1" />
+      <File FileName="Reverse/Program.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SumCount" expanded="True">
+            <Node name="factorial" expanded="True" />
+            <Node name="NumberSum" expanded="True" />
+            <Node name="Reverse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="SimpleNumber" expanded="True" />
+            <Node name="SumCount" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NumberSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Reverse FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.factorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.csprojAssemblyReference.cache
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.AssemblyInfoInputs.cache
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.AssemblyInfo.cs
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.csproj.CoreCompileInputs.cache
+/Users/kira/Projects/SumCount/factorial/bin/Debug/netcoreapp3.1/factorial.deps.json
+/Users/kira/Projects/SumCount/factorial/bin/Debug/netcoreapp3.1/factorial.runtimeconfig.json
+/Users/kira/Projects/SumCount/factorial/bin/Debug/netcoreapp3.1/factorial.runtimeconfig.dev.json
+/Users/kira/Projects/SumCount/factorial/bin/Debug/netcoreapp3.1/factorial.dll
+/Users/kira/Projects/SumCount/factorial/bin/Debug/netcoreapp3.1/factorial.pdb
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.dll
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.pdb
+/Users/kira/Projects/SumCount/factorial/obj/Debug/netcoreapp3.1/factorial.genruntimeconfig.cache

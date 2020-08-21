@@ -1,0 +1,12 @@
+/Users/kira/Projects/SumCount/Reverse/bin/Debug/netcoreapp3.1/Reverse.deps.json
+/Users/kira/Projects/SumCount/Reverse/bin/Debug/netcoreapp3.1/Reverse.runtimeconfig.json
+/Users/kira/Projects/SumCount/Reverse/bin/Debug/netcoreapp3.1/Reverse.runtimeconfig.dev.json
+/Users/kira/Projects/SumCount/Reverse/bin/Debug/netcoreapp3.1/Reverse.dll
+/Users/kira/Projects/SumCount/Reverse/bin/Debug/netcoreapp3.1/Reverse.pdb
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.csprojAssemblyReference.cache
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.AssemblyInfoInputs.cache
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.AssemblyInfo.cs
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.csproj.CoreCompileInputs.cache
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.dll
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.pdb
+/Users/kira/Projects/SumCount/Reverse/obj/Debug/netcoreapp3.1/Reverse.genruntimeconfig.cache

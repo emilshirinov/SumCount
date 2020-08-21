@@ -1,0 +1,12 @@
+/Users/kira/Projects/SumCount/SimpleNumber/bin/Debug/netcoreapp3.1/SimpleNumber.deps.json
+/Users/kira/Projects/SumCount/SimpleNumber/bin/Debug/netcoreapp3.1/SimpleNumber.runtimeconfig.json
+/Users/kira/Projects/SumCount/SimpleNumber/bin/Debug/netcoreapp3.1/SimpleNumber.runtimeconfig.dev.json
+/Users/kira/Projects/SumCount/SimpleNumber/bin/Debug/netcoreapp3.1/SimpleNumber.dll
+/Users/kira/Projects/SumCount/SimpleNumber/bin/Debug/netcoreapp3.1/SimpleNumber.pdb
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.csprojAssemblyReference.cache
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.AssemblyInfoInputs.cache
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.AssemblyInfo.cs
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.csproj.CoreCompileInputs.cache
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.dll
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.pdb
+/Users/kira/Projects/SumCount/SimpleNumber/obj/Debug/netcoreapp3.1/SimpleNumber.genruntimeconfig.cache

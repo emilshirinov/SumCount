@@ -1,0 +1,12 @@
+/Users/kira/Projects/SumCount/SumCount/bin/Debug/netcoreapp3.1/SumCount.deps.json
+/Users/kira/Projects/SumCount/SumCount/bin/Debug/netcoreapp3.1/SumCount.runtimeconfig.json
+/Users/kira/Projects/SumCount/SumCount/bin/Debug/netcoreapp3.1/SumCount.runtimeconfig.dev.json
+/Users/kira/Projects/SumCount/SumCount/bin/Debug/netcoreapp3.1/SumCount.dll
+/Users/kira/Projects/SumCount/SumCount/bin/Debug/netcoreapp3.1/SumCount.pdb
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.csprojAssemblyReference.cache
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.AssemblyInfoInputs.cache
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.AssemblyInfo.cs
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.csproj.CoreCompileInputs.cache
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.dll
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.pdb
+/Users/kira/Projects/SumCount/SumCount/obj/Debug/netcoreapp3.1/SumCount.genruntimeconfig.cache
